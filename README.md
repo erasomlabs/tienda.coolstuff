@@ -1,42 +1,36 @@
 <p align="center">
-  <img height="120" src="https://www.appcreator24.com/srv/imgs/gen/3707205_ico.png?v=3" width="120"/>
+  <img height="120" src="https://play-lh.googleusercontent.com/veLVnDKu4ZhC25WlXylLfQ4j-HPyBqSxRyyrmNxLR_ty04SCFVEg1R8cm4Be2Ak5pvA=w480-h960-rw" width="120"/>
 </p>
-<h1 align="center">Lobby: Gestor de Redes Sociales</h1>
-<p align="center">Las redes sociales bajo tu control.</p>
+<h1 align="center">Tienda CoolStuff</h1>
+<p align="center">Hay más de lo que ves.</p>
 <p align="center">
-  <a href="https://apk.e-droid.net/apk/app3707205-f05btr.apk?v=3" target="_blank"><img src="https://img.shields.io/badge/Descarga_Directa-APK-4CAF50?style=for-the-badge&logo=android"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Versión-1.0-2196F3?style=for-the-badge"/></a>
+  <a href="https://play.google.com/store/apps/details?id=tienda.coolstuff.app" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Versión-2.1-5F27CD?style=for-the-badge"/></a>
 </p>
 
 ---
 
 <p align="center">
-Reúne tus redes sociales en un solo lugar. Lobby te ayuda a controlar tu acceso, ahorrar espacio en tu dispositivo y evitar el consumo excesivo de tiempo con un diseño limpio y minimalista.
+Tu "Estudio de Descubrimiento" personal. [cite_start]Actuamos como un filtro de confianza para presentarte una colección curada de objetos donde el ingenio, el diseño y la función se encuentran. [cite: 166, 168, 172]
 </p>
 
 <br/>
 
 <img align="left" alt="downloads-folder" height="54" src="https://img.icons8.com/3d-fluency/94/downloads-folder.png" width="54"/><h2>Descarga</h2>
-
-> [!CAUTION]
-> **Nota Importante:** La aplicación aún no está disponible en la Google Play Store. Para instalar el archivo `.apk`, es posible que necesites activar la opción "Instalar desde fuentes desconocidas" en la configuración de seguridad de tu dispositivo Android.
-
 <div align="center">
 <table>
 <thead>
 <tr>
-<th>Tipo de Descarga</th>
-<th>Enlace</th>
+<th>Plataforma</th>
+<th>Página de Descarga</th>
+<th>Enlace Directo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><p><b>Página Oficial</b> (Web)</p></td>
-<td><p><a href="https://www.appcreator24.com/app3707205-f05btr" target="_blank"><img src="https://img.shields.io/badge/Visitar_Página-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white"/></a></p></td>
-</tr>
-<tr>
-<td><p><b>Descarga Directa</b> (.apk)</p></td>
-<td><p><a href="https://apk.e-droid.net/apk/app3707205-f05btr.apk?v=3" target="_blank"><img src="https://img.shields.io/badge/Descargar_APK-4CAF50?style=for-the-badge&logo=download"/></a></p></td>
+<td rowspan="1"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" style="width: 80px;"/></td>
+<td><p><a href="https://play.google.com/store/apps/details?id=tienda.coolstuff.app" target="_blank"><img alt="download-google-play" src="https://img.shields.io/badge/Descargar_para_Android-Google_Play-12F6D2?style=for-the-badge&logo=android"/></a></p></td>
+<td rowspan="1"><p><a href="https://play.google.com/store/apps/details?id=tienda.coolstuff.app" target="_blank"><img src="https://img.shields.io/badge/Ver_en_Play_Store-white?style=for-the-badge&logo=Google-Play&logoColor=414141" style="width: 150px;"/></a></p></td>
 </tr>
 </tbody>
 </table>
@@ -64,11 +58,11 @@ Reúne tus redes sociales en un solo lugar. Lobby te ayuda a controlar tu acceso
 </tr>
 <tr>
 <td><img height="60" src="https://img.icons8.com/fluency/96/database.png" style="float: left;" width="60"/><h4>Peso de la App<h4></h4></h4></td>
-<td>Aprox. 25 MB.</td>
+<td>Solo 44 MB.</td>
 </tr>
 <tr>
 <td><img height="60" src="https://img.icons8.com/fluency/96/wifi.png" style="float: left;" width="60"/><h4>Conexión<h4></h4></h4></td>
-<td>Conexión a Internet requerida.</td>
+<td>Conexión a Internet requerida para navegar y comprar.</td>
 </tr>
 </tbody>
 </table>
@@ -77,53 +71,40 @@ Reúne tus redes sociales en un solo lugar. Lobby te ayuda a controlar tu acceso
 <br/>
 
 <details>
-<summary><a href="#"><img height="60" src="https://img.icons8.com/fluency/96/hub.png" style="float: left;" width="60"/><h1><a href="#">   Características Principales</a></h1></a></summary>
+<summary><a href="#"><img height="60" src="https://img.icons8.com/fluency/96/magic-wand.png" style="float: left;" width="60"/><h1><a href="#">   ¿Qué nos hace especiales?</a></h1></a></summary>
 
 > [!TIP]
-> Unifica tu experiencia social. Accede a todas tus redes sin complicaciones y con un diseño minimalista.
+> [cite_start]Nuestra Propuesta Única de Valor es: "Una selección experta que te garantiza el ingenio en cada producto". [cite: 178]
 
-* **🌐 Todo en Uno:** Accede a tus redes sociales favoritas (Facebook, Instagram, X, TikTok, etc.) desde una única y ligera aplicación.
-* **💾 Ahorro de Espacio:** Libera cientos de megabytes en tu dispositivo al no necesitar las pesadas aplicaciones oficiales de cada red.
-* **⏱️ Control de Tu Tiempo:** El diseño centralizado te ayuda a ser más consciente de tu tiempo de uso y a evitar la apertura impulsiva de múltiples apps.
-* **✨ Diseño Minimalista:** Disfruta de una interfaz limpia y sin distracciones, enfocada 100% en el contenido que te importa.
-
-</details>
-
-<br/>
-
-<details>
-<summary><a href="#"><img height="60" src="https://img.icons8.com/fluency/96/trophy.png" style="float: left;" width="60"/><h1><a href="#">   Beneficios de Usar Lobby</a></h1></a></summary>
-
-* **🧘 Simplifica tu Vida Digital:** Menos apps, menos notificaciones, menos desorden en tu pantalla de inicio.
-* **🚀 Optimiza tu Dispositivo:** Contribuye a mejorar el rendimiento y la duración de la batería al reducir el número de apps pesadas corriendo en segundo plano.
-* **👍 Navegación Intuitiva:** Accede a todo lo que necesitas sin complicaciones y con una experiencia de usuario fluida y directa.
-* **🆓 ¡Completamente Gratuita!** Disfruta de esta herramienta de gestión sin costo alguno.
+### Nuestra Oferta
+* [cite_start]**🎯 Selección Experta:** Actuamos como un filtro de confianza, ahorrándote tiempo y el riesgo de comprar productos genéricos y de baja calidad. [cite: 172, 178]
+* [cite_start]**💎 Catálogo Único:** Descubre gadgets tecnológicos, accesorios novedosos y artículos de diseño para el hogar y la oficina que no encontrarás en catálogos masivos. [cite: 175]
+* **💡 Valor Añadido Real:** Cada producto es elegido por su diseño inteligente, función inesperada o calidad superior. [cite_start]Te comunicamos claramente por qué cada artículo es especial. [cite: 179, 180]
+* [cite_start]**🇨🇴 Pensado para Colombia:** Ofrecemos facilidades clave para el mercado colombiano, como el pago contra entrega. [cite: 181]
 
 </details>
 
 <br/>
 
 <details>
-<summary><a href="#"><img height="60" src="https://img.icons8.com/fluency/96/handshake.png" style="float: left;" width="60"/><h1><a href="#">   Apoya el Proyecto</a></h1></a></summary>
-<p>Si Lobby te resulta útil y deseas apoyar su desarrollo para futuras mejoras, puedes hacer una donación a través de PayPal.</p>
-<br/>
-<p align="center">
-<a href="https://www.paypal.com/ncp/payment/YJ8K9WW7T69UJ" target="_blank">
-<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button"/>
-</a>
-</p>
-<p>¡Tu apoyo nos motiva a seguir creando!</p>
+<summary><a href="#"><img height="60" src="https://img.icons8.com/fluency/96/rocket.png" style="float: left;" width="60"/><h1><a href="#">   Beneficios para el "Descubridor Urbano"</a></h1></a></summary>
+
+* **⏱️ Ahorra Tiempo:** Olvídate de las búsquedas interminables. [cite_start]Hacemos el trabajo de curación por ti. [cite: 172]
+* [cite_start]**✅ Compra con Confianza:** Nuestra selección está garantizada por un criterio experto para asegurar calidad e ingenio en cada compra. [cite: 178, 180]
+* [cite_start]**🎁 Encuentra Regalos Originales:** Sorprende a otros (o a ti mismo) con productos únicos y funcionales que odian lo genérico. [cite: 186]
+* [cite_start]**📱 Experiencia de Compra Exclusiva:** Disfruta de una app con un estilo juvenil, dinámico y llamativo, diseñada para una compra fácil y directa. [cite: 151, 163]
+
 </details>
 
 <br/>
 
 <details>
 <summary><a href="#"><img height="60" src="https://img.icons8.com/fluency/96/new-message.png" style="float: left;" width="60"/><h1><a href="#">   Contacto y Soporte</a></h1></a></summary>
-<p>¿Tienes alguna sugerencia, pregunta o necesitas ayuda? Visita nuestro centro de contacto para encontrar todas nuestras redes sociales y formas de comunicarte.</p>
+<p>Visita nuestro centro de contacto para encontrar todas nuestras redes sociales y formas de comunicarte con el equipo de desarrollo de @erasomlabs.</p>
 <br/>
 <p align="center">
 <a href="https://linktr.ee/erasomlabs" target="_blank">
-<img src="https://img.shields.io/badge/Contacta%20con%20nosotros-%40erasomlabs-3498DB?style=for-the-badge&logo=linktree&logoColor=white" alt="Contacto erasomlabs"/>
+<img src="https://img.shields.io/badge/Contacta%20con%20nosotros-%40erasomlabs-5F27CD?style=for-the-badge&logo=linktree&logoColor=white" alt="Contacto erasomlabs"/>
 </a>
 </p>
 </details>
@@ -131,5 +112,5 @@ Reúne tus redes sociales en un solo lugar. Lobby te ayuda a controlar tu acceso
 
 ---
 <center>
-<p>Lobby: Gestor de Redes Sociales © 2024-2025 erasomlabs. Todos los derechos reservados.</p>
+<p>Tienda CoolStuff © 2024-2025 erasomlabs. Todos los derechos reservados.</p>
 </center>
